@@ -6,7 +6,8 @@
 const PROJECT_LINKS = {
   forex:  "",
   cars:   "https://merry-lolly-6789ed.netlify.app/",
-  school: "https://sore-soresschool.netlify.app/"
+  school: "https://sore-soresschool.netlify.app/",
+  nani:   "https://www.nanigroupofcompanies.com"
 };
 
 document.querySelectorAll('[data-project]').forEach(a => {
