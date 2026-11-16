@@ -1,8 +1,3 @@
-// ============================================================
-// EDIT HERE: paste the full web address of each project between
-// the quotes, e.g. forex: "https://myforexjournal.com"
-// Leave it empty ("") and the button shows as disabled.
-// ============================================================
 const PROJECT_LINKS = {
   forex:  "",
   cars:   "https://merry-lolly-6789ed.netlify.app/",
